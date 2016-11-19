@@ -1,3 +1,5 @@
+## Iterative Subgraph Counting
+
 Remember, when constructing the Ancestor Graph (similar, but not the same as the Line Graph):
 
 1. Label each node of G lexographically.
